@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RIGTIG",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -139,7 +139,7 @@
             }
           },
           "text1": "<strong>CONTACTOS</strong><br>Fabián Reyes Bueno: frreyes@utpl.edu.ec<br>José María Tubío: josemaria.tubio@usc.es<br><br><b>LINK DE LA RIGTIG\n</b><br>http://gis.uazuay.edu.ec/rigtig/<br>",
-          "text2": "<b>ASISTENTES:</b><div>Marco Torres</div><div>María Elena Acosta</div><div>Andrea Terán</div><div>Gabriela Villacreses</div><div>Andrea Carrión</div><div>José María Tubío</div><div>Oswaldo Saransig</div><div>Mauricio Cuesta</div><div>Soledad Vásquez</div><div>Verónica Muñoz</div><div>Javier Viracucha</div><div>Esteban Orellana</div><div>Rodolfo Salazar</div><div>Fabián Reyes</div>",
+          "text2": "<b>ASISTENTES:</b><div>Marco Torres</div><div>María Elena Acosta</div><div>Andrea Terán</div><div>Gabriela Villacreses</div><div>Andrea Carrión</div><div>José María Tubío</div><div>Oswaldo Saransig</div><div>Mauricio Cuesta</div><div>Soledad Vásquez</div><div>María Augusta Larco</div><div>Verónica Muñoz</div><div>Javier Viracucha</div><div>Esteban Orellana</div><div>Rodolfo Salazar</div><div>Fabián Reyes</div>",
           "_tags": [
             "Theme"
           ],
@@ -260,7 +260,7 @@
                 "title": "Catastro y riesgos en Ecuador",
                 "contentAlign": "left",
                 "text": "Rodolfo Salazar (ESPE)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/RIGTIG BIENVENIDA CONFERENCIA IAEN DICIEMBRE 2017 RSM.ppt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/Presentaci%C3%B3n%20conferencia%20RIGTIG%2007122017.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true
               },
               {
