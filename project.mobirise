@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RIGTIG",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20,7 +20,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "RIGTIG",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -222,7 +222,7 @@
                 "title": "ECU3-Act. El impuesto predial en Ecuador: una herramienta para mejorar la\n<div>autonomía fiscal?</div>",
                 "contentAlign": "left",
                 "text": "José María Tubío (USC)<br>Fabián Reyes Bueno (UTPL)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/ECU3-Conferencia-RIGTIG.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.5"
               },
@@ -234,8 +234,8 @@
                 "showTitle": true,
                 "title": "SIGTIERRAS - Evaluación final y pasos a futuro",
                 "contentAlign": "left",
-                "text": "Abgda. Andrea Terán (SIGTIERRAS)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "text": "Andrea Terán (SIGTIERRAS)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/170712_SIGT_RIGT_final.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.6"
               },
@@ -248,7 +248,7 @@
                 "title": "La informalidad urbana en Ecuador",
                 "contentAlign": "center",
                 "text": "Verónica Muñoz (UIDE)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/V_Mu%C3%B1oz_RIGTIG2017.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true
               },
               {
@@ -260,7 +260,7 @@
                 "title": "Catastro y riesgos en Ecuador",
                 "contentAlign": "left",
                 "text": "Rodolfo Salazar (ESPE)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/RIGTIG BIENVENIDA CONFERENCIA IAEN DICIEMBRE 2017 RSM.ppt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true
               },
               {
@@ -272,7 +272,7 @@
                 "title": "Asentamientos informales en Ecuador",
                 "contentAlign": "left",
                 "text": "María Augusta Larco",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/Larco_RIGTIG_Gestion%20Territorial%20AHI.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true
               },
               {
@@ -284,7 +284,7 @@
                 "title": "Evolución del enfoque territorial en la planificación del desarrollo\r<div>nacional</div>",
                 "contentAlign": "right",
                 "text": "Andrea Carrión (IAEN)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/Carrion_RIGTIG_planificaci%C3%B3n_territorial.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true
               },
               {
@@ -296,7 +296,7 @@
                 "title": "Estrategia Territorial Nacional",
                 "contentAlign": "right",
                 "text": "Javier Viracucha (SENPLADES)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assets/files/RIGTIG_ETN_Senplades_GV_07122017_v2.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTACIÓN</a> ",
                 "overlay": true
               },
               {
@@ -321,7 +321,8 @@
           "_anchor": "slider-8",
           "_styles": {
             "H1": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             "P": {
               "color": "#ffffff"
