@@ -1,0 +1,334 @@
+{
+  "settings": {
+    "name": "RIGTIG",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#3c3c3c"
+      ]
+    },
+    "versionFirst": "4.4.0",
+    "uniqCompNum": 10,
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Conferencias</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc02466a-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "III Conferencia\n<div>Conocimiento en Acción para la Gestión Territorial</div>",
+          "text": "Quito, 7-8 de diciembre 2017",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "text": "<p>La Red de Investigación en Gestión del Territorio y Tecnologías de la Información\n Geoespacial (RIGTIG) en su tercera conferencia en Quito hizo un resumen de las actividades realizadas y &nbsp;proyectos presentados, y promovió un foro para el intercambio de conocimientos, experiencias y necesidades dirigidas a mejorar la toma de decisiones en la gestión territorial, buscando reunir a la administración nacional que trabaja en el ámbito de la gestión territorial y a las diferentes universidades que realizan investigación sobre la misma, con el ánimo de promover puntos de encuentro y aunar esfuerzos para realizar trabajos de investigación de forma conjunta y colaborativa en los siguientes ámbitos: &nbsp;1) Administración de tierras: catastro y registro de la propiedad; 2) Políticas fiscales sobre la tierra; 3) Planificación de usos y políticas de ordenamiento territorial.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "IAEN, QUITO",
+              "placeId": "ChIJsVJ3wJqa1ZERw2Ru16NfhGg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>CONTACTOS</strong><br>Fabián Reyes Bueno: frreyes@utpl.edu.ec<br>José María Tubío: josemaria.tubio@usc.es<br><br><b>LINK DE LA RIGTIG\n</b><br>http://gis.uazuay.edu.ec/rigtig/<br>",
+          "text2": "<b>ASISTENTES:</b><div>Marco Torres</div><div>María Elena Acosta</div><div>Andrea Terán</div><div>Gabriela Villacreses</div><div>Andrea Carrión</div><div>José María Tubío</div><div>Oswaldo Saransig</div><div>Mauricio Cuesta</div><div>Soledad Vásquez</div><div>Verónica Muñoz</div><div>Javier Viracucha</div><div>Esteban Orellana</div><div>Rodolfo Salazar</div><div>Fabián Reyes</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-9"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "ECU3",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Conferencias</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-105555-2000x1500.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "ECU3-Act. El impuesto predial en Ecuador: una herramienta para mejorar la\n<div>autonomía fiscal?</div>",
+                "contentAlign": "left",
+                "text": "José María Tubío (USC)<br>Fabián Reyes Bueno (UTPL)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-112828-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "SIGTIERRAS - Evaluación final y pasos a futuro",
+                "contentAlign": "left",
+                "text": "Abgda. Andrea Terán (SIGTIERRAS)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-125320-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "La informalidad urbana en Ecuador",
+                "contentAlign": "center",
+                "text": "Verónica Muñoz (UIDE)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-131739-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Catastro y riesgos en Ecuador",
+                "contentAlign": "left",
+                "text": "Rodolfo Salazar (ESPE)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-161047-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Asentamientos informales en Ecuador",
+                "contentAlign": "left",
+                "text": "María Augusta Larco",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-170336-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Evolución del enfoque territorial en la planificación del desarrollo\r<div>nacional</div>",
+                "contentAlign": "right",
+                "text": "Andrea Carrión (IAEN)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-180422-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Estrategia Territorial Nacional",
+                "contentAlign": "right",
+                "text": "Javier Viracucha (SENPLADES)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171207-183323-1-2000x1500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Catastro en Ecuador. Principales desafío futuros",
+                "contentAlign": "right",
+                "text": "Esteban Orellana (MIDUVI)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRESENTACIÓN</a> ",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-8",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
