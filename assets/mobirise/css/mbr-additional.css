@@ -27,3 +27,31 @@
 #slider-8 P {
   color: #ffffff;
 }
+#menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content1-e P {
+  font-size: 15px;
+  text-align: left;
+}
+#menu-g .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content1-j P {
+  text-align: left;
+}
+#content1-s P {
+  font-size: 15px;
+}
