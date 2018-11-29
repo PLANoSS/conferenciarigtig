@@ -1,0 +1,1277 @@
+{
+  "settings": {
+    "name": "RIGTIG",
+    "currentPage": "page8.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#3c3c3c"
+      ]
+    },
+    "versionFirst": "4.4.0",
+    "uniqCompNum": 102,
+    "versionPublish": "4.6.6",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "RIGTIG",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161104-81950-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "REFLEXIONES SOBRE LA GESTIÓN DE TIERRAS",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CON</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "text": "<p>La Red de Investigación en Gestión del Territorio y Tecnologías de la Información\n Geoespacial (RIGTIG) en su tercera conferencia en Quito hizo un resumen de las actividades realizadas y &nbsp;proyectos presentados, y promovió un foro para el intercambio de conocimientos, experiencias y necesidades dirigidas a mejorar la toma de decisiones en la gestión territorial, buscando reunir a la administración nacional que trabaja en el ámbito de la gestión territorial y a las diferentes universidades que realizan investigación sobre la misma, con el ánimo de promover puntos de encuentro y aunar esfuerzos para realizar trabajos de investigación de forma conjunta y colaborativa en los siguientes ámbitos: &nbsp;1) Administración de tierras: catastro y registro de la propiedad; 2) Políticas fiscales sobre la tierra; 3) Planificación de usos y políticas de ordenamiento territorial.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "ECU3",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": []
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-8",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Conferencia",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc02466a-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "III Conferencia\n<div>Conocimiento en Acción para la Gestión Territorial</div>",
+          "text": "Quito, 7-8 de diciembre 2017",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONFERENCIAS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-d"
+        },
+        {
+          "text": "<p>La Red de Investigación en Gestión del Territorio y Tecnologías de la Información\n Geoespacial (RIGTIG) en su tercera conferencia en Quito hizo un resumen de las actividades realizadas y &nbsp;proyectos presentados, y promovió un foro para el intercambio de conocimientos, experiencias y necesidades dirigidas a mejorar la toma de decisiones en la gestión territorial, buscando reunir a la administración nacional que trabaja en el ámbito de la gestión territorial y a las diferentes universidades que realizan investigación sobre la misma, con el ánimo de promover puntos de encuentro y aunar esfuerzos para realizar trabajos de investigación de forma conjunta y colaborativa en los siguientes ámbitos: &nbsp;1) Administración de tierras: catastro y registro de la propiedad; 2) Políticas fiscales sobre la tierra; 3) Planificación de usos y políticas de ordenamiento territorial.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "IAEN, QUITO",
+              "placeId": "ChIJsVJ3wJqa1ZERw2Ru16NfhGg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>CONTACTOS</strong><br>Fabián Reyes Bueno: frreyes@utpl.edu.ec<br>José María Tubío: josemaria.tubio@usc.es<br><br><b>LINK DE LA RIGTIG\n</b><br>http://gis.uazuay.edu.ec/rigtig/<br><br><b>APOYO EN LA ORGANIZACIÓN<br></b>Ginella Jácome<br>Andrea Carrión",
+          "text2": "<b>ASISTENTES:</b><div>Marco Torres</div><div>María Elena Acosta</div><div>Andrea Terán</div><div>Gabriela Villacreses</div><div>Andrea Carrión</div><div>José María Tubío</div><div>Oswaldo Saransig</div><div>Mauricio Cuesta</div><div>Soledad Vásquez</div><div>María Augusta Larco</div><div>Verónica Muñoz</div><div>Javier Viracucha</div><div>Esteban Orellana</div><div>Rodolfo Salazar</div><div>Fabián Reyes</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-f"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "reflexiones",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20180108-115921-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Reflexiones del efecto de la plusvalía sobre la oportunidad de acceso a la tierra",
+          "text": "Por Fabián Reyes-Bueno*; José María Tubío-Sánchez** \n<br><i><br></i><br><i>*G.I. Planificación del suelo y sistemas sociales, Universidad Técnica Particular de Loja. frreyes@utpl.edu.ec \n<br>**G.I.1934-TB, Laboratorio del Territorio, Universidad de Santiago de Compostela. Josemaria.tubio@usc.es&nbsp;</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-k"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/mHKRF6B4fIQ",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Video generado por Verónica íñiguez (UTPL), Verónica Muñoz(UIDE-Loja), y, Fabián Reyes (UTPL)",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2j"
+        },
+        {
+          "text": "<p><b>1.- Evolución de los precios de la tierra y efectos en el acceso a la tierra. Ejemplo de Loja</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "text": "<p>En los últimos años se ha dado una subida generalizada de precios de la tierra en Ecuador. Las noticias en la prensa en relación a este punto no han hecho más que incidir en lo difícil que está siendo a la clase media ecuatoriana acceder a una vivienda (El Comercio, 2014) o cómo los altos precios han comenzado a expulsar los usos agrícolas de ciertas áreas (2015). Hay varios factores que inciden en el aumento del precio de un inmueble, entre ellos los relacionados con las características propias del inmueble (superficie, localización,  accesibilidad, infraestructura, servicios) (Kostov, Patton, and McErlean 2008; Tsoodle, Golden, and Featherstone 2006; Perry and Robison 2001), las características económicas de la demanda, y las mejoras producidas en el inmueble. Sin embargo, existe también un aumento del precio del suelo que no responde a ninguno de estos factores mencionados, pero sí a la posición asumida por quienes ofertan suelo en el mercado, que suelen  adoptar un comportamiento especulativo a la hora de ofertar la tierra (Triantafyllopoulos 2017) en un contexto donde los instrumentos de gestión territorial son todavía muy débiles para regular el mercado, beneficiándose de dos elementos fundamentales: 1) la creciente demanda sobre los inmuebles y 2) las mejoras hechas en el sector con inversiones públicas (esfuerzo colectivo), para la construcción por lo general de infraestructura, pero también por cambios de uso de suelo.   Una buena parte de la plusvalía que obtienen los propietarios de tierra surge de esta inversión pública que han pagado todos los ecuatorianos con sus impuestos (el dinero que ingresan los propietarios individuales por la venta de sus tierras viene en gran medida de los bolsillos de todos). Es por lo tanto legítimo pensar que los ciudadanos a través del estado quieran recuperar, a través de por ejemplo la Ley de Plusvalías, parte de los recursos invertidos con el objetivo de seguir invirtiendo en otras obras de infraestructura, además de facilitar el acceso a la tierra a las personas de menos recursos. En este trabajo explicamos la evolución de los precios de la tierra, poniendo como ejemplo la ciudad de Loja, y tratamos de señalar algunas debilidades de los argumentos en contra de la Ley de Plusvalías, que hasta ahora parece que han sido dominantes en el debate político del país.\n</p><p>\n</p><p>En Ecuador en los últimos años se dio un proceso de aumento de la clase media, la capacidad de endeudamiento (Inec 2016) y el acceso a crédito hipotecario (Posligua 2016), que llevó a un aumento de la demanda por el suelo. A continuación se muestra un ejemplo de la oferta del suelo en la ciudad de Loja desde el año 2013 hasta el 2017. En este período de tiempo, como se observa en la figura 1, el precio de oferta del suelo pasó de aproximadamente $100/m2 a $200/m2.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/valor-loja-480x288.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Figura 1. Oferta media del suelo urbano en un período de 4 años. Fuente: el autor",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-l"
+        },
+        {
+          "text": "<p>Un problema existente es que el valor del suelo crece de forma desproporcionada respecto al salario básico unificado (SBU) y al índice de precios al consumidor (IPC), de tal forma que, como se observa en la figura 2, por ejemplo, si en el año 2014 para comprar un terreno de 200 m2 en Loja hacían falta 63 SBU en promedio, en el 2017 hacen falta 109 SBU.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/figura2-480x288.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Figura 2. Porcentaje de aumento del precio del suelo (línea roja) y de aumento del salario mínimo (línea azul) en un período de 4 años. Fuente: el autor\n",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-n"
+        },
+        {
+          "text": "<p><b><i>Efectos del aumento del precio del suelo</i></b><br></p><p>\n</p><p>Ecuador es uno de los países con mayor inequidad (rural-urbana, pequeña ciudad-gran ciudad, ingresos económicos) (Moscoso 2017), y vuelve prácticamente inaccesible el suelo para ciertos sectores económicos, más aún en las zonas en las que los procesos especulativos son mucho más fuertes. Es el caso de los pobladores del área rural de dos parroquias del cantón Loja: Vilcabamba y Chuquiribamba, de las cuales se pudo rescatar la siguiente información (Neira 2018):\n</p><p>●\tVilcabamba es una parroquia con fuerte presencia turística mientras que Chuquiribamba es una parroquia con actividad predominante agropecuaria.\n</p><p>●\tEl precio de oferta del suelo en Vilcabamba es, en promedio, de $67800/ha, mientras que en Chuquiribamba es de $14100/ha. En el caso de Chuquiribamba, los factores más influyentes para la variación del precio son los biofísicos y de accesibilidad, mientras que en Vilcabamba los factores están más relacionados con la competencia por usos urbanos de la tierra agrícola.\n</p><p>●\tEl salario de un trabajador rural (en promedio de $402 en Chuquiribamba y $467 en Vilcabamba) es mucho menor que el sueldo de un profesional ($725 en Chuquiribamba y $1445 en Vilcabamba). La diferencia de sueldo entre los profesionales de las dos parroquias se debe a que en Vilcabamba los actores involucrados en el proceso de compra-venta son en su mayoría de la ciudad de Loja o extranjeros.\n</p><p>●\tEl valor del suelo es más de cuatro veces mayor en Vilcabamba que en Chuquiribamba, lo que tiene una relación directa entre las diferencias de salario de profesionales (clase media sobre todo) de Chuquiribamba y Vilcabamba que adquieren terrenos en cada parroquia, pero no las diferencias entre salarios de trabajadores rurales.\n</p><p>●\tSi para los trabajadores rurales de Chuquiribamba resulta difícil acceder a suelo rural en sus parroquias, en Vilcabamba es prácticamente imposible (su esfuerzo debe ser cuatro veces mayor a un trabajador rural de Chuquiribamba)\n</p><p>●\tAdicionalmente, por estos salarios y los precios de la tierra, los trabajadores rurales (Chuquiribamba y Vilcabamba) no califican como sujetos de crédito hipotecario para compra de tierras, y las consecuencias de eso pueden llevar a la venta de lo que tienen, migración a áreas urbanas y aumento de suelo informal en el área urbana. En Ecuador actualmente el 60% de la superficie urbana es informal, debiéndose esto a que incluso la tierra urbana informal en el caso de Loja es tan cara como la tierra formal en España, pero la renta per cápita es cinco veces menor. El alza de los precios tiene como consecuencia inicia un círculo de abandono de agricultura en las áreas próximas a las ciudades, y de emigración a las mismas. Allí los ciudadanos también se encuentran con precios altos para acceder a la tierra, lo que los lleva a una situación de habitabilidad informal.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o"
+        },
+        {
+          "text": "<p><b>2.- La Ley de Plusvalía y su efecto sobre los precios de la tierra</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "text": "<p>En el mes de diciembre del año 2016, se aprobó la Ley Orgánica para Evitar la Especulación sobre el Valor de las Tierras y Fijación de Tributos (Ecuador 2016). Esta Ley tiene amparo jurídico en la Constitución del Ecuador de acuerdo al Art. 376, donde se “prohíbe la obtención de beneficios a partir de prácticas especulativas sobre el uso del suelo”. La Ley busca en este sentido desincentivar el aumento indiscriminado del precio del suelo, fijando el pago de un impuesto del 75% sobre la ganancia extraordinaria que lo recauda el municipio (siempre que esta ganancia extraordinaria supere las 24 remuneraciones básicas unificadas). Para ello la Ley establece dos tipos de ganancias: ordinaria y extraordinaria. La ganancia ordinaria se determina multiplicando el valor de compra del inmueble por un factor de ajuste que puede aumentar en función de dos variables: la tasa pasiva del banco central, y el número de años existentes entre la compra y la venta del inmueble. De esta forma por ejemplo, si una casa o terreno es comprado en el presente año en $21690, dentro de un año podría ser vendido a un monto de $22991, teniendo entonces una ganancia ordinaria de $1301. Sin embargo, si se incorporaron mejoras o se pagó alguna contribución especial por mejoras, estos valores se suman al valor del inmueble antes de calcular la ganancia ordinaria.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/figura3-480x288.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Figura 3. Aplicación del factor de ajuste propuesto en la Ley para el cálculo de la ganancia ordinaria y de la ganancia extraordinaria exenta.\n",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-p"
+        },
+        {
+          "text": "<p>Previo a esta Ley, tanto la Ley Orgánica de Régimen Municipal (Ecuador 2005) como el COOTAD (Ecuador 2010) ya establecía (Art. 556) el pago de un impuesto por utilidades y plusvalía, el cual consistía en una tarifa del 10% sobre las utilidades y plusvalía que provengan de la transferencia de inmuebles urbanos.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q"
+        },
+        {
+          "text": "<p><b>3. Argumentos dominantes utilizados para buscar derogar la Ley de Plusvalía. Algunas reflexiones</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "text": "<p>En el mes de noviembre de 2017 se convocó a una consulta popular en la cual se planteó una pregunta para derogar la Ley conocida como ‘de plusvalía’, justificando la pregunta con el argumento de que las cargas impositivas planteadas en la Ley no coadyuvan a cumplir el propósito de que los ciudadanos en general puedan tener acceso a la vivienda. Se propone además su eliminación con la finalidad de incentivar al sector de la construcción de vivienda urbana y rural e incrementar las plazas de trabajo de mano de obra directa e indirecta.\n</p><p>Respecto al primer argumento se debe mencionar que la tierra ya no es solamente un factor de producción, sino también un bien de consumo y de inversión tanto en el área urbana como en el rural. Dado que la tierra no es infinita y tiene características no uniformes, los seres humanos compiten por ella, generando una renta para el propietario que es la que determina cuánto vale en el mercado. Esta competencia se agudiza en un contexto de globalización y liberalización del mercado, y como resultado, en ausencia de regulación, se incrementan los precios de la tierra siendo este incremento plusvalía para el propietario (ejemplo el caso de Vilcabamba).\n</p><p>En un mercado completamente libre, y bajo la ausencia o debilidad de otro tipo de regulaciones de uso del suelo, quienes finalmente ejercen el control sobre precios y usos son quienes están compitiendo en ese mercado (Reyes-Bueno et. al, 2016). Con la fuerza que puede alcanzar este proceso, una falta de regulación en torno a los umbrales de precio que se ajusten al crecimiento real de la economía de los hogares difícilmente coadyuvará a que se incremente el acceso a la tierra o a la vivienda, especialmente para las personas que menores ingresos perciben, y aumentará la concentración de la tierra.\n</p><p>La alta tasa fijada en el pago de impuesto a la plusvalía no busca otra cosa sino desmotivar el aumento desproporcionado del precio de los inmuebles, desacelerando de esta forma el aumento de la brecha entre lo que un inmueble cuesta y lo que la población podría pagar. Además de este objetivo, la Ley de Plusvalía incentivaría la urbanización de tierras que están vacantes (los conocidos como “lotes de engorde”), aumentando la oferta en zonas claves de las ciudades y reduciendo por lo tanto los precios de la tierra.\n</p><p>El segundo argumento planteado es el de desaceleración de la construcción y de la inversión inmobiliaria. Se ha hablado ya mucho al respecto de que la desaceleración de la construcción está principalmente ligada a la desaceleración de la economía del país por todas las crisis por las que hemos atravesado en los últimos tres años (<a href=\"http://ecuanomica.blogspot.com/2018/01/leydeplusvalia-consulta-popular-el.html?spref=tw\" target=\"_blank\">Jaramillo, 2018</a>). Una muestra de ello es que este sector empezó a decrecer desde el año 2015 (la Ley se aprobó en diciembre del 2016) y que incluso decreció también a nivel regional, como en Colombia, con independencia de una Ley de Plusvalía.\n</p><p>Respecto a inversión inmobiliaria (compra y venta de inmuebles netamente), como se observa en la figura 3, la línea de color azul muestra la tendencia actual del precio de oferta del suelo, la línea roja el crecimiento que debió tener si la Ley hubiera sido aprobada en 2013, y la línea roja entrecortada muestra la ganancia extraordinaria exenta de pago. Al comparar estos datos se observa que solamente en el primer año la ganancia ordinaria calculada fue mayor que la tendencia de la oferta, en los demás años restantes la oferta es mucho mayor a la ganancia ordinaria. Sin embargo, la ganancia extraordinaria exenta llega a ser mayor al comportamiento del mercado en los tres años siguientes al de inicio del análisis, por lo que la ley poco afectaría a quienes invierten en el corto plazo.\n</p><p>Es posible que, en este sentido, la Ley no esté cumpliendo con su propósito de frenar el aumento del precio del suelo, pero el tiempo de vigencia de la misma, y la debilidad todavía de otros muchos instrumentos de gestión territorial, no hace posible que se puedan evaluar sus efectos. En cualquier caso, debe tenerse claro que, en el caso de cobro de impuesto por plusvalía, el monto no es más que la recuperación de la inversión, para el gobierno local, de una inversión que fue realizada por todos los ciudadanos y no por el inversor/vendedor/constructor.\n</p><p>La Ley de Plusvalía se enfrenta a varios desafíos para que pueda llegar a tener efectos, y estos desafíos tienen que con la coordinación con otras políticas de gestión territorial actualmente en curso. En primer lugar, se enfrenta al desafío de la generación de modelos de valoración catastral que sean fiables. Para ello, aunque la ley establece una serie de acciones para lograrlo, es necesario contar con el compromiso de los municipios, ya que el avalúo catastral del inmueble en promedio está el 50% por debajo del valor de mercado en el área urbana y el 40% en el área rural. Como ejemplo basta mencionar lo sucedido un par de años atrás con la venta del parque Samanes por parte del ISSFA al Ministerio del Ambiente. En segundo lugar es evidente que la Ley de Plusvalía, si no va acompañada de política urbanas más activas en relación la generación de suelo urbano formal (uno de los objetivos de la LOTUS), no va a tener tanto efecto como el deseado en los precios de la tierra. Es necesario por lo tanto entender la Ley de Plusvalía como una herramienta más de gestión territorial entre las varias de las que se ha ido dotando el Ecuador en los últimos años para mejorar la vida de los ciudadanos, que debería ir reajustándose si fuera necesario, para llegar a cumplir la meta propuesta.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r"
+        },
+        {
+          "text": "<p><br></p><p><b>BIBLIOGRAFÍA</b>\n</p><p>\n</p><p>\n</p><p>\n</p><p>El Comercio, 2014 http://www.elcomercio.com/actualidad/ecuador/seis-anos-aumento-precio-de.html\n</p><p>\n</p><p>\n</p><p>\n</p><p>El Comercio, 2015 http://www.elcomercio.com/actualidad/ecuador/seis-anos-aumento-precio-de.htmlEcuador. 2005. “Codificación a La Ley Orgánica de Régimen Municipal.” http://www.derechoecuador.com/index.php?option=com_content&amp;view=article&amp;id=2137:registro-oficial-5-de-diciembre-del-2005-suplemento&amp;catid=209:diciembre&amp;Itemid=346.\n</p><p>\n</p><p>\n</p><p>\n</p><p>———. 2010. “Código Orgánico de Organización Territorial, Autonomía Y Descentralización. COOTAD.” http://www.mcpolitica.gov.ec/mp3/COOTAD.pdf.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Ecuador, Asamblea Nacional. 2016. “Ley Orgánica Para Evitar La Especulación Sobre El Valor de Las Tierras Y Fijación de Tributos.” Asamblea Nacional Del Ecuador. http://www.registrodelapropiedad.quito.gob.ec/textos_normativa/TRANSPARENCIA_2017/ DOCUMENTOS/Enero/LEY%20ORGANICA%20PARA%20EVITAR%20LA%20ESPECULACION%20SOBRE %20EL%20VALOR%20DE%20LAS%20TIERRAS%20Y%20FIJACION%20DE%20TRIBUTOS.pdf.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Jaramillo, Juan. (2018). Ley de Plusvalía a consulta popular, el retorno de la política pública clientelar. Disponible en http://ecuanomica.blogspot.com/2018/01/leydeplusvalia-consulta-popular-el.html?spref=tw</p><p>Inec, Instituto Nacional de Estadística y. Censos. 2016. “Reporte de Pobreza Por Consumo. Ecuador 2006-2014.” ESTUDIOS TEMÁTICOS. http://www.ecuadorencifras.gob.ec//documentos/web-inec/Bibliotecas/Libros/reportePobreza.pdf.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Kostov, Philip, Myles Patton, and Seamus McErlean. 2008. “Nonparametric Analysis of the Influence of Buyers’ Characteristics and Personal Relationships on Agricultural Land Prices.” Agribusiness 24 (2):161–76.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Moscoso, Santiago Sarmiento. 2017. “Evolución de La Desigualdad de Ingresos En Ecuador, Período 2007-2015.” Analítika 13 (1):49–79.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Neira, Jonathan. 2018. “Análisis Comparativo de La Dinámica de Mercado de Suelo de Las Parroquias Chuquiribamba Y Vilcabamba de La Provincia de Loja En El Periodo 2008 – 2014.” Edited by Fabián Reyes-Bueno. Ingeniero en Gestión Ambiental, Universidad Técnica Particular de Loja.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Perry, Gregory M., and Lindon Robison. 2001. “Evaluating the Influence of Personal Relationships on Land Sale Prices: A Case Study in Oregon.” Land Economics 77 (3):385–98.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Posligua, Jesseline. 2016. “Análisis de Los Créditos Hipotecarios Y Su Incidencia En La Evolución Del Sistema Inmobiliario de Guayaquil Periodo 2007-2014.” repositorio.ug.edu.ec. http://repositorio.ug.edu.ec/handle/redug/14919.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Reyes-Bueno, F; Tubío Sánchez, J; Gracía Samaniego, J; Miranda Barrós, D; Crecente Maseda, R; Sánchez-Rodríguez, A. (2016). Factors influencing land fractioning in the context of land market deregulation in Ecuador, Land Use Policy, Volume 52, 2016, Pages 144-150, ISSN 0264-8377, https://doi.org/10.1016/j.landusepol.2015.12.021.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Triantafyllopoulos, Nikolaos. 2017. “On the Origins of Tourist Urbanisation in Greece: Land Speculation and Property Market (in)efficiency.” Land Use Policy 68 (Supplement C):15–27.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Tsoodle, Leah J., Bill B. Golden, and Allen M. Featherstone. 2006. “Factors Influencing Kansas Agricultural Farm Land Values.” Land Economics 82 (1):124–39.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Gestion_Andes",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc03010-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "title": "La gestión territorial en los Andes",
+          "text": "En el mundo los problemas de sobre-utilización de la tierra en ciertas áreas, tanto para usos urbanos como rurales, así como abandono de estos usos en otras áreas, se están incrementando de forma acelerada en las últimas décadas. La región andina no es ajena a estas dinámicas. Las herramientas para hacer frente a estos desafíos que tienen los diferentes niveles de gobierno se enmarcan en la disciplina que se denomina gestión territorial. Los tres pilares fundamentales en los que se asiente la gestión territorial son el catastro y registro de la propiedad, las políticas fiscales sobre la tierra y la planificación de usos. En esta sección repasamos el nivel de implementación de estos instrumentos de gestión territorial en Perú y Colombia. Con este pretendemos ayudar a generar una comunidad académica de carácter andino, para pensar entre todos problemas que son comunes.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1e"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Colombia</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Perú</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1f"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Colombia",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1g"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20170803-143156-2000x2667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gestión territorial en Colombia",
+          "text": "<i>Entrevista a Gustavo Marulanda - IGAC</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1h"
+        },
+        {
+          "text": "<p><b>1.- Catastro, valoración e impuesto predial. Agentes por nivel y grado de ejecución</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-1i"
+        },
+        {
+          "text": "<p>Existen tres niveles de gobierno en Colombia: Nacional, Departamental (32), y, Municipal (1150)</p><p>En cuanto a las<b> competencias del catastro rural y urbano</b>, a nivel Nacional, el IGAC (Instituto Geográfico) se encarga de la actualización cofinanciado por los municipios. Están obligados a actualizar cada 5 años. El IGAC utiliza diferentes métodos para la determinación de los avalúos catastrales, para el suelo Zonas homogéneas físicas (ZHF) y zonas homogéneas geoeconómicas (ZHGE), y para las construcciones utiliza, reposición, tablas de valor, modelos econométricos, entre otros.&nbsp;</p><p>&nbsp;No hay articulación entre catastro y registro de propiedad.</p><p>\n</p><p>La información del catastro, se convertirá en insumo para la que las entidades públicas puedan adelantar sus procesos misionales, así por ejemplo la Agencia Nacional de Tierras se encarga del ordenamiento social de la propiedad y de formalización de la propiedad.\n</p><p>&nbsp;Los cuatro municipios más grandes tiene catastro descentralizados (Bogotá, Cali, Medellín, y  el Departamento de Antioquia)</p><p><b>En cuanto a</b>&nbsp;<b>avalúos urbanos y rurales</b></p><p>Está desactualizado el 67% de los predios. El 15% del país están sin levantar (formación).</p><p><b>En cuanto a la evolución a futuro.</b></p><p>El artículo 104 del Plan Nacional de Desarrollo, establece el catastro multipropósito.\n</p><p>\nSe va a hacer un barrido predial masivo, para el cual ya hay un presupuesto&nbsp;</p><p>\nSe va a promover la delegación de competencias diferenciadas con miras a una potencial descentralización. &nbsp;</p><p>Con la futura ley de catastro, se crearán dos figuras, de un lado la de gestores y la de operadores catastrales, así mismo aparece en esta norma, el rol de los agrimensores, se van a promover competencias en donde se de mayor fortaleza a los profesionales técnicos existentes en el componente jurídico del catastro.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-1j"
+        },
+        {
+          "text": "<p><b>2.- Políticas fiscales de la tierra en Colombia: El impuesto predial. Agentes por nivel y grado de ejecución</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-2a"
+        },
+        {
+          "text": "<p><b>Emisión y recaudo</b><br></p><p>\n</p><p>A nivel nacional el predial representa el 70% y el 80% de los ingresos propios de los municipios de menor tamaño&nbsp;</p><p>La recaudación es municipal. Todos los municipios recaudan a través del SUC. Grandes ciudades como Bogotá pueden recaudar en torno al 92% de la emisión anual.<br></p><p>Para el promedio de los municipios presentan una recaudación cercana al 65% de la emisión.\n</p><p>A los 5 años prescribe la cartera no gestionada por las oficinas de tributación. \n</p><p>Algunos estatutos tributarios establecen que tienen que pagar tanto propietarios como posesionarios. \n</p><p><b><br></b></p><p><b>Tasas impositivas</b></p><p>A través de Ley se definen los rangos en que pueden fluctuar los impuestos, incluidos los de orden territorial.</p><p> Las tarifas que aplicarán los municipios van entre el 4/00 y el 16/00. Los municipios definen el rango en que estos se gradúan, a través de sus concejos\n</p><p>\n</p><p>Hay exclusiones, dentro de estos están los centros de culto (para aquellas iglesias reconocidas legalmente)\n</p><p>\n</p><p>Los municipios pueden definir algunas exenciones \n</p><p><br></p><p><b>Avalúos.</b><br></p><p>El IGAC define las metodologías valuatorias.</p><p>Los avalúos deben estar en referencia a los valores de mercado (el avalúo promedio está entre el 40%).\n</p><p>\nEl mínimo definido por ley debe ser el 50%.</p><p><br></p><p><b>Grado de ejecución</b></p><p>Las valoraciones suelen estar muy desactualizadas.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1n"
+        },
+        {
+          "text": "<p><b>3. Políticas de ordenamiento territorial y de usos de la tierra. Agentes por nivel y grado de ejecución.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-1o"
+        },
+        {
+          "text": "<p>A nivel nacional la competencia la tiene la Dirección de desarrollo territorial (2 subdirecciones). La ley 387 del 97 da la base jurídica para los POT.&nbsp;</p><p>-La primera subdirección facilita recursos para la planeación.\n</p><p>-La subdirección de ordenamiento territorial tiene como principal objetivo desarrollar el enfoque territorial. Hasta el 2014 no hubo planeamiento del país.\n</p><p>\nEl DNP sólo tiene competencias en materia territorial a partir del 2011. &nbsp;&nbsp;</p><p>\nA nivel metropolitano los planes se rigen por otra norma.&nbsp;</p><p>\nA nivel nacional los asuntos medioambientales son dados por el ministerio del ambiente. &nbsp;</p><p>Los municipios pueden anular (ha sido refrendado por la corte nacional) mediante consulta popular las estrategias nacionales de explotación materias primas.&nbsp;<br></p><p>Hay proyectos que se formulan a nivel nacional, donde se ejecutan finalmente a nivel local.&nbsp;<br></p><p>Los Departamentos se rigen por la Ley 1454/2011. La ley se demoró hasta el 2011 para ser aprobada, aunque fue impulsada en 98.\n Con los planes se gestionarían actividades y procesos de carácter departamental: estructuras ecológicas, sistema de transporte regional.&nbsp;<br></p><p>A nivel municipal, los municipios 1) contratan una consultora, 2) piden información a todos los ministerios; 3) el formulado es enviado a la corporación autónoma regional, donde se mira si todos los lineamientos a nivel nacional están incorporado; 4) Finalmente se presenta a los consejos territoriales de planeación (local); 5) una vez hechas todas la modificaciones necesarias, se aprueba por el consejo municipal. Si no hay consenso el alcalde puede aprobarlo por decreto. No se aprueban por la administración sectorial.</p><p><b><br></b></p><p><b>Grado de implementación</b></p><p>Hace 12 años que se formularon los planes.<br></p><p>\n</p><p>Existen tres tipos de planes, que se diferencias en su complejidad:\n</p><p>\n</p><p>Esquemas de ordenamiento territorial-EOT (&lt;30000)\n</p><p>\n</p><p>Planes básicos de OT (30000-100000)\n</p><p>\n</p><p>POT (&lt;100000)\tSe ha desarrollado un programa de planes de ordenamiento (POT moderno). Hubo una selección de municipios de 108. Puede haber una cofinanciación de 90% para los municipios pequeños</p><p>\n</p><p>A nivel Departamental no hay ningún plan aprobado</p><p>A nivel municipal el 88% de los municipios tiene obsoletos los planes.\n La información que se utilizó era muy mala. Era un diagnóstico (publicado en 2013).&nbsp;</p><p><b><br></b></p><p><b>Acciones futuras</b></p><p>A nivel nacional se ha desarrollado un programa de planes de ordenamiento (POT moderno). Hubo una selección de municipios de 108. Puede haber una cofinanciación de 90% para los municipios pequeños</p><p>A nivel Departamental se han tratado de hacer 6 regiones de planificación, pero todavía no han sido aprobadas.</p><p>A nivel municipal a futuro los POT modernos se tratará de que contengan lineamiento que tengan carácter jurídico, como los planes de uso del suelo. Muchos de los que hay en vigor son sólo diagnósticos.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1p"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Peru",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2b"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20170408-94026-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gestión territorial en Perú",
+          "text": "<i>Entrevista a Wilmer Pérez - Dirección general de Ordenamiento Territorial</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2c"
+        },
+        {
+          "text": "<p><b>1.- Catastro, valoración e impuesto predial en Perú. Agentes por nivel y grado de ejecución</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-2d"
+        },
+        {
+          "text": "<p>Existen cinco niveles de gobierno en Perú: Nacional, Departamental (25), Provincial (250), Municipal (1828), y finalmente parroquial</p><p><b><br></b></p><p><b>Catastro y avalúos urbanos</b></p><p>A nivel nacional el Ministerio de Vivienda tiene una Superintendencia en Catastro que se encarga de redactar las directrices y los procedimientos\n.</p><p>Los gobiernos locales (municipios) tienen la competencia para realizar el catastro y avalúo con las regulaciones nacionales de la Superintendencia.</p><p><br></p><p><b>Catastros y avalúos rurales</b></p><p>A nivel nacional el Organismo de Formalización de la Propiedad Informal - COFOPRI, dependiente del ministerio de vivienda realiza tareas de levantamiento predial, pero es el ministerio de justicia, a través de la Superintendencia Nacional de los Registros Públicos - SUNARP, que es la que registra legalmente la propiedad.</p><p><br></p><p><b>Grado de ejecución</b></p><p>A nivel nacional la informalidad se sitúa alrededor del 60-70%. A nivel nacional existe todavía un 20% del territorio sin propiedad acreditada\n.</p><p>Alrededor del 60% de las capitales distristales tienen catastro. La mayoría de los municipios no lo tiene\n.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-2e"
+        },
+        {
+          "text": "<p><b>2.- Políticas fiscales de la tierra.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-2f"
+        },
+        {
+          "text": "<p>A nivel nacional la Superintendencia a través del Consejo Nacional de Tasaciones (CONATA) establece horquillas y reglas para el establecimiento de tarifas.&nbsp;<br></p><p>-Hay impuesto a las plusvalía (alcabalas), y depende de la Superintendencia Nacional de Administración Tributaria\n.</p><p>-No existe contribución por mejoras.\n</p><p>Los Departamentos tienen competencias para generar sus propios ingresos a través del avalúo predial, pues tienen funciones para administrar tierra propiedad del estado. Pero todavía no lo han hecho. \n</p><p>Los gobiernos locales tienen competencias para realizar los avalúos y el cobro de impuesto predial. No sabemos muy bien cuál es el porcentaje de lo cobrado en relación a la emisión, ni tampoco en qué medida los avalúos existentes reflejan precios de mercado.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g"
+        },
+        {
+          "text": "<p><b>3. Políticas de ordenamiento territorial y de usos de la tierra. Agentes por nivel y grado de ejecución.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-2h"
+        },
+        {
+          "text": "<p>El OT en Perú es una competencia designada al Ministerio del Ministerio del Ambiente. Surge legalmente con el decreto legislativo 1013 como una obligación de EE UU vinculada al tratado de libre comercio.\n</p><p>\n</p><p>Desde la ley 30203 de 2014, ningún instrumento de ordenamiento territorial debe ser vinculante, con el objetivo de evitar conflictos con las mineras.</p><p>A nivel nacional, los diferentes ministerios (minas, ambiente, agricultura, etc.) realizan planes sectoriales, que actualmente son los principales instrumentos de ordenamiento territorial.</p><p>A nivel de Departamento se realizan Zonificación ecológica y económica (ZEE), así como planes de ordenamiento territorial (POT). En 2014, unos 11 gobiernos regionales contaban con un ZEE</p><p>Las provincias pueden hacer una ZEE. Alrededor de un ¾ de las provincias tienen una ZEE</p><p>A nivel local los municipios tienen, según el ministerio de vivienda, competencias para hacer un decreto de acondicionamiento territorial. Permite regular el desarrollo urbano.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2i"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Proyectos",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2l"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc01529-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Proyectos en ejecución o finalizados",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">ECU3-ACT</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2m"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Ecu3ACT",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">III Conferencias<br>RIGTIG<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">Reflexiones sobre<br>la gestión de tierras</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Gestión territorial<br>en los Andes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Proyectos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoop1-192x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gis.uazuay.edu.ec/rigtig",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://gis.uazuay.edu.ec/rigtig\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Red de Investigación en Gestión del Territorio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2n"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20170330-154936-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ECU3-ACT",
+          "text": "ECU3-ACT: Ecuador desarrollo inteligente. Conocimiento\n<br>en Acción para la gestión Territorial integrada",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ECU3-ACT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2o"
+        },
+        {
+          "text": "<p>ECU3-ACT sigue la senda emprendida por los proyectos ECUIDiT I y II y ECUCOOP tratando de corregir el fuerte rezago investigativo del país en GTI; generando conocimiento e &nbsp;investigación útil para el desarrollo del Ecuador. En 2013 y en el marco de ECUIDiT, se creó la Red de Investigación en Gestión del Territorio \ny Tecnologías de Información Geo-espacial (RIGTIG) en la que participan 6 universidades ecuatorianas &nbsp;con trayectoria reconocida en el ámbito de GTI. De la RIGTIG forma parte la Universidad &nbsp;Técnica Particular de Loja (UTPL) qué es la contraparte del proyecto ECU3-ACT y que ha sido parte esencial de la Red desde su creación. &nbsp;</p><p>La tesis que subyace en ECU3-ACT es la misma de ECUCOOP, esto es: los problemas \nambientales, los problemas de vivienda, de servicios insuficientes, incluso los de &nbsp;dependencia económica y pobreza, son, antes que nada, problemas territoriales. Desde &nbsp;este punto de vista, la GTI debe ser considerada un instrumento de lucha contra la &nbsp;pobreza, objetivo último de cualquier agenda de cooperación al desarrollo. &nbsp;</p><p><b>¿Cómo alcanzar el objetivo?. Las acciones de ECU3-ACT \n</b></p><p>Desde el Enfoque del Marco Lógico (EML), el proyecto se estructuró en 3 Resultados \nEsperados (RE) y 8 Actividades (ACT) y de manera resumida se desarrollará de la siguiente &nbsp;manera: &nbsp;</p><p>- Para la preparación de la EFL, el proyecto realizó una misión en la que \ninvestigadores y técnicos ecuatorianos visiten instituciones gallegas especializadas &nbsp;en GTI (Banco de Terras de Galicia, Instituto de estudos do Territorio, Gerencia &nbsp;Regional del Catastro), así como instituciones municipales con buenas prácticas en &nbsp;ese ámbito (Concello de Oleiros, Concello de Allariz). &nbsp;</p><p>- La propuesta de EFL fue elaborada conjuntamente por los investigadores \necuatorianos de las universidades de la RIGTIG y los de la USC-LaboraTe y, antes de &nbsp;proceder a desarrollar la experiencia piloto en un municipio del Ecuador, deberá ser &nbsp;validada con las instituciones ecuatorianas (Secretaría Nacional de Planificación y &nbsp;Desarrollo –SENPLADES-, Dirección Nacional de Avalúos y Catastros –DINAC-, &nbsp;Proyecto Sistema Nacional de Información y Gestión de Tierras –SIGTierras-). &nbsp;</p><p>- Las mismas instituciones locales ( DINAC y SIGTierras) son las &nbsp;principales beneficiarias de las lecciones aprendidas del ejercicio de aplicación que &nbsp;deberán recogerse en un informe final que fue presentado en el marco de un workshop.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<a href=\"https://planoss.github.io/valor_zapotillo/\" target=\"_blank\">Visor web del precio de oferta del suelo en Zapotillo</a>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Visor web del precio de oferta del suelo en Zapotillo",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-2t"
+        }
+      ]
+    }
+  }
+}
