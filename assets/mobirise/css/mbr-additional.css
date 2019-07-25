@@ -49,6 +49,33 @@
 #menu-g .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#msg-box3-32 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-32 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-32 .mbr-article B {
+  color: #000000;
+}
+#msg-box3-32 .mbr-article {
+  text-align: center;
+}
+#msg-box3-31 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-31 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-31 .mbr-article B {
+  color: #000000;
+}
+#msg-box3-31 .mbr-article {
+  text-align: center;
+}
+#content1-34 P {
+  text-align: left;
+}
 #content1-u P {
   font-size: 23px;
 }
